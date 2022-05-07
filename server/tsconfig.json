@@ -99,5 +99,7 @@
     "skipLibCheck": true,                                 /* Skip type checking all .d.ts files. */
     "types": ["jest"],
     "typeRoots": ["./src/types", "node_modules/@types"],
-  }
+    
+  },
+  "include": ["src"],
 }

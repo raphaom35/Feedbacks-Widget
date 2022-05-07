@@ -15,7 +15,7 @@ Application for people to give feedback about your page
 </p>
 
 <div align="center">
-<img src="./video.gif" width="700" height="388" />
+<img src="./video.gif" width="800" height="388" />
 </div>
 
 <hr />

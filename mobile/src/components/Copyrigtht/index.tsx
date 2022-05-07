@@ -6,7 +6,7 @@ import { styles } from "./styles";
 export function Copyright() {
   return (
     <View>
-      <Text>Desenvolvido com ♥ pelo Raphael Martins</Text>
+      <Text style={styles.text}>Desenvolvido com ♥ pelo Raphael Martins</Text>
     </View>
   );
 }

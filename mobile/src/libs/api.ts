@@ -1,4 +1,4 @@
 import axios from 'axios';
 export const api = axios.create({
-    baseURL: 'http://192.168.5.129:3333',
+    baseURL: 'https://feedbacks-widget-production.up.railway.app/',
 })

@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "build":"npx tsc",
-    "dev": "ts-node-dev src/server.ts",
-    "start":"node dist/server.js"
+    "build": " npx tsc",
+    "start": "node dist/server.js",
+    "dev": "ts-node-dev src/server.ts"
   },
   "keywords": [],
   "author": "",

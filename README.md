@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/raphaom35/Feedbacks-Widget/blob/master/feed.png" width="430" height="67"/> 
+<img src="https://github.com/raphaom35/Feedbacks-Widget/blob/master/feed.png" width="430" height="67"/>
 
 <br>
 </h1>
@@ -25,7 +25,7 @@ Application for people to give feedback about your page
 - 💾 **Node js** — A lib that provides a way to create api
 - 📱 **React Native (expo)** — A lib that provides a way to create app mobile
 - ⚛️ **React** — A lib that provides a way to create web app
-- 🌐	**Vite** -Lib web deploy
+- 🌐 **Vite** -Lib web deploy
 - 💅 **Styled Components** — styled-components
 - 💖 **Lint** — ESlint/Prettier/Editor Config
 
@@ -33,15 +33,19 @@ Application for people to give feedback about your page
 
 1. Clone this repo using `git clone https://github.com/raphaom35/Feedbacks-Widget.git`
 2. Move yourself to the appropriate directory: `cd Feedbacks-Widget`<br />
--Server
+   -Server
 3. Move yourself to the appropriate directory: `cd Feedbacks-Widget/server`<br />
 4. Run `yarn` to install dependencies<br />
 5. Run: `yarn dev`
+
 - Web
+
 6. Move yourself to the appropriate directory: `cd Feedbacks-Widget/web`<br />
 7. Run `yarn` to install dependencies<br />
 8. Run: `yarn dev`
+
 - Mobile
+
 9. Move yourself to the appropriate directory: `cd Feedbacks-Widget/mobile`<br />
 10. Run `yarn` to install dependencies<br />
 11. Run: `expo start`
